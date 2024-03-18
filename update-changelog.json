@@ -1,6 +1,9 @@
 {
   "latestVersion": "1.8.18",
-  "latestVersionCode": 548,
-  "url": "",
-  "releaseNotes": []
+  "latestVersionCode": 549,
+  "url": "https://github.com/Hidup-Sehat/MobileDevelopment-HidupSehat/releases/download/v1.0.1/Hidup-Sehat-Release.1.0.1.apk",
+  "releaseNotes": [
+    "- Update Feature A",
+    "- Bug Fixing"
+  ]
 }
